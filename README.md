@@ -11,6 +11,10 @@ iOS 앱을 Apple 생태계 전체(macOS, iPadOS, watchOS, tvOS, visionOS)로 확
 - **비교 매트릭스** — 6개 요소로 5개 플랫폼 한눈에 비교
 - **Solo 개발자 우선순위** — 최소 투자로 최대 효과 확장 로드맵
 
+## 🌐 라이브 데모
+
+**https://m1zz.github.io/apple-platform-guide/**
+
 ## 🚀 GitHub Pages 배포
 
 1. 이 저장소를 GitHub에 push
